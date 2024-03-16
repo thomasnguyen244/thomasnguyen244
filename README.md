@@ -4,7 +4,7 @@
 - 💬 Ask me about **PHP, HTML, CSS, JS, NodeJS,React, MySQL, Magento2, Shopify**
 
 - 📫 How to reach me **thomasnguyen899321@gmail.com**
-  <p align="center"><a href="https://workwiththomas.com" target="_blank" rel="noreferrer"><img src="https://workwiththomas.com/wp-content/uploads/2024/03/thomas-nguyen-bussiness-card.png" alt="bootstrap" width="800" height="400"/></a></p>
+  <p align="center"><a href="https://workwiththomas.com" target="_blank" rel="noreferrer"><img src="https://workwiththomas.com/wp-content/uploads/2024/03/thomas-nguyen-bussiness-card.png" alt="bootstrap" width="800"/></a></p>
   
 <h3 align="left">Connect with me: <a href="https://workwiththomas.com" target="_blank" rel="noreferrer">Work with Thomas</a></h3>
 <p align="left">
