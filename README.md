@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thomas Nguyen</h1>
 <h3 align="center">A PHP developer from Vietnam</h3>
 
-- 💬 Ask me about **PHP, HTML, CSS, Tailwind Css, JS, NodeJS, React, NextJS, RemixJS, MongoDb, PostgresDb MySQL, Magento2, Shopify, Medusajs, Ai Agent/Ai Chatbot Development, Freelancer, IT Staffing Service**
+- 💬 Ask me about **PHP, HTML, CSS, Tailwind Css, JS, NodeJS, React, NextJS, RemixJS, MongoDb, PostgresDb MySQL, Magento2, Shopify, Medusajs, Ai Agent/Ai Chatbot Development, Freelancer, IT Staffing Service, Remote Dedicated Developers**
 
 - 📫 How to reach me **thomasnguyen899321@gmail.com** or **info@workwiththomas.com**
   <p align="center"><a href="https://workwiththomas.com" target="_blank" rel="noreferrer"><img src="https://workwiththomas.com/wp-content/uploads/2024/03/thomas-nguyen-bussiness-card.png" alt="bootstrap" width="800"/></a></p>
